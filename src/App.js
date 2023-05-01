@@ -8,8 +8,8 @@ import {
 } from "@react-three/drei";
 import { LayerMaterial, Displace } from "lamina";
 
-const LINE_1 = "How is it made?";
-const LINE_2 = "Hello World";
+const LINE_1 = "Fabrice Werger's portfolio";
+const LINE_2 = "Coming soon";
 const SIZE = 14;
 
 // made by wojciech dobry
