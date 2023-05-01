@@ -143,19 +143,18 @@ const Overlay = () => (
         textAlign: "center"
       }}
     >
-      made by{" "}
+      - inspired by{" "}
+      <a href="https://twitter.com/pmndrs" target="_blank" rel="noreferrer">
+        pmndrs
+      </a>{" "}
+      collective and{" "}
       <a
         href="https://twitter.com/wojciech_dobry"
         target="_blank"
         rel="noreferrer"
       >
         wojciech dobry
-      </a>{" "}
-      – inspired by{" "}
-      <a href="https://twitter.com/pmndrs" target="_blank" rel="noreferrer">
-        pmndrs
-      </a>{" "}
-      collective
+      </a>
     </span>
   </>
 );
